@@ -11,7 +11,8 @@ package com.mycompany.paraclase;
 public class Paraclase {
 String Nombre;
 int numero;
-
+int messi;
+String fecha;
     public Paraclase(String Nombre, int numero) {
         this.Nombre = Nombre;
         this.numero = numero;
